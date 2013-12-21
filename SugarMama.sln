@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SugarMama.Model", "SugarMama.Model\SugarMama.Model.csproj", "{9331CB59-0193-4A52-8501-9DE947301135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SugarMama.Domain", "SugarMama.Domain\SugarMama.Domain.csproj", "{2A48455E-0A8E-40F7-999A-E0D4FD7CC9C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SugarMama.DAL", "SugarMama.DAL\SugarMama.DAL.csproj", "{9DAD02CA-F2AB-4FFE-8620-710D08478AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9331CB59-0193-4A52-8501-9DE947301135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9331CB59-0193-4A52-8501-9DE947301135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9331CB59-0193-4A52-8501-9DE947301135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9331CB59-0193-4A52-8501-9DE947301135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A48455E-0A8E-40F7-999A-E0D4FD7CC9C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A48455E-0A8E-40F7-999A-E0D4FD7CC9C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A48455E-0A8E-40F7-999A-E0D4FD7CC9C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A48455E-0A8E-40F7-999A-E0D4FD7CC9C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAD02CA-F2AB-4FFE-8620-710D08478AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAD02CA-F2AB-4FFE-8620-710D08478AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAD02CA-F2AB-4FFE-8620-710D08478AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAD02CA-F2AB-4FFE-8620-710D08478AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
