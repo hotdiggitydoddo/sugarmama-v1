@@ -1,0 +1,10 @@
+C:\dev\Repos\SugarMama\SugarMama.DAL\bin\Debug\SugarMama.DAL.dll.config
+C:\dev\Repos\SugarMama\SugarMama.DAL\bin\Debug\SugarMama.DAL.dll
+C:\dev\Repos\SugarMama\SugarMama.DAL\bin\Debug\SugarMama.DAL.pdb
+C:\dev\Repos\SugarMama\SugarMama.DAL\bin\Debug\EntityFramework.dll
+C:\dev\Repos\SugarMama\SugarMama.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\Repos\SugarMama\SugarMama.DAL\bin\Debug\EntityFramework.xml
+C:\dev\Repos\SugarMama\SugarMama.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\Repos\SugarMama\SugarMama.DAL\obj\Debug\SugarMama.DAL.csprojResolveAssemblyReference.cache
+C:\dev\Repos\SugarMama\SugarMama.DAL\obj\Debug\SugarMama.DAL.dll
+C:\dev\Repos\SugarMama\SugarMama.DAL\obj\Debug\SugarMama.DAL.pdb

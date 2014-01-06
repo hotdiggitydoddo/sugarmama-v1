@@ -1,0 +1,8 @@
+C:\dev\Repos\SugarMama\SugarMama.Domain\bin\Debug\SugarMama.Domain.dll.config
+C:\dev\Repos\SugarMama\SugarMama.Domain\bin\Debug\SugarMama.Domain.dll
+C:\dev\Repos\SugarMama\SugarMama.Domain\bin\Debug\SugarMama.Domain.pdb
+C:\dev\Repos\SugarMama\SugarMama.Domain\bin\Debug\SugarMama.Model.dll
+C:\dev\Repos\SugarMama\SugarMama.Domain\bin\Debug\SugarMama.Model.pdb
+C:\dev\Repos\SugarMama\SugarMama.Domain\obj\Debug\SugarMama.Domain.csprojResolveAssemblyReference.cache
+C:\dev\Repos\SugarMama\SugarMama.Domain\obj\Debug\SugarMama.Domain.dll
+C:\dev\Repos\SugarMama\SugarMama.Domain\obj\Debug\SugarMama.Domain.pdb
