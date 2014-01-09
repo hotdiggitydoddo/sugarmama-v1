@@ -13,10 +13,10 @@ namespace SugarMama.Web
             bundles.Add(new ScriptBundle("~/js").Include(
                 "~/Scripts/jquery-{version}.js",
                 "~/Scripts/bootstrap.min.js",
-                "~/Scripts/jquery.validate.unobtrusive.js"
+                "~/Scripts/jquery.validate.js"
                 ));
 
-            bundles.Add(new StyleBundle("~/content/css").Include(
+            bundles.Add(new StyleBundle("~/css").Include(
                 "~/Content/css/bootstrap.min.css",
                 "~/Content/css/custom.css"
                 ));

@@ -29,5 +29,10 @@ namespace SugarMama.Web.Controllers
         {
             return View();
         }
+
+        public ActionResult ComingSoon()
+        {
+            return View();
+        }
 	}
 }

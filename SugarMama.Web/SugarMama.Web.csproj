@@ -94,11 +94,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="comingsoon.html" />
     <Content Include="Content\css\bootstrap-theme.css" />
     <Content Include="Content\css\bootstrap-theme.min.css" />
     <Content Include="Content\css\bootstrap.css" />
     <Content Include="Content\css\bootstrap.min.css" />
     <Content Include="Content\css\custom.css" />
+    <Content Include="Content\images\bg1.png" />
+    <Content Include="Content\images\mainbg.png" />
     <Content Include="Content\images\spa_facial_face.jpg" />
     <Content Include="Content\images\sugarMamaBanner.png" />
     <Content Include="Content\images\sugarMamaMain.png" />
@@ -108,6 +111,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <None Include="Properties\PublishProfiles\mywindowshosting.com.pubxml" />
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -136,6 +140,9 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\ComingSoon.cshtml" />
+    <Content Include="Views\Shared\_Navbar.cshtml" />
+    <Content Include="Views\Home\Copy of Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

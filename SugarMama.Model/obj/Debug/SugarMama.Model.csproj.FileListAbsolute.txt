@@ -1,5 +1,4 @@
 C:\dev\Repos\SugarMama\SugarMama.Model\bin\Debug\SugarMama.Model.dll
 C:\dev\Repos\SugarMama\SugarMama.Model\bin\Debug\SugarMama.Model.pdb
-C:\dev\Repos\SugarMama\SugarMama.Model\obj\Debug\SugarMama.Model.csprojResolveAssemblyReference.cache
 C:\dev\Repos\SugarMama\SugarMama.Model\obj\Debug\SugarMama.Model.dll
 C:\dev\Repos\SugarMama\SugarMama.Model\obj\Debug\SugarMama.Model.pdb
