@@ -23,3 +23,6 @@ C:\dev\Repos\SugarMama\SugarMama.Web\bin\System.Web.Mvc.xml
 C:\dev\Repos\SugarMama\SugarMama.Web\obj\Debug\SugarMama.Web.csprojResolveAssemblyReference.cache
 C:\dev\Repos\SugarMama\SugarMama.Web\obj\Debug\SugarMama.Web.dll
 C:\dev\Repos\SugarMama\SugarMama.Web\obj\Debug\SugarMama.Web.pdb
+C:\dev\Repos\SugarMama\SugarMama.Web\bin\CaptchaMvc.dll
+C:\dev\Repos\SugarMama\SugarMama.Web\bin\CaptchaMvc.pdb
+C:\dev\Repos\SugarMama\SugarMama.Web\bin\CaptchaMvc.xml

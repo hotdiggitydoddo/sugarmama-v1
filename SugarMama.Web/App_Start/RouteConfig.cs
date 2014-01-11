@@ -14,15 +14,26 @@ namespace SugarMama.Web
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
-name: "ComingSoon",
-url: "coming-soon/{id}",
-defaults: new
-{
-    controller = "Home",
-    action = "ComingSoon",
-    id = UrlParameter.Optional
-}
-);
+                name: "ComingSoon",
+                url: "coming-soon/{id}",
+                defaults: new
+                {
+                    controller = "Home",
+                    action = "ComingSoon",
+                    id = UrlParameter.Optional
+                }
+            );
+
+            routes.MapRoute(
+               name: "Contact",
+               url: "contact/{id}",
+               defaults: new
+               {
+                   controller = "Home",
+                   action = "Contact",
+                   id = UrlParameter.Optional
+               }
+           );
 
 
             routes.MapRoute(
