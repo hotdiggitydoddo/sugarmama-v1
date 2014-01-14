@@ -35,6 +35,17 @@ namespace SugarMama.Web
                }
            );
 
+            routes.MapRoute(
+               name: "Appointments",
+               url: "appointments/{id}",
+               defaults: new
+               {
+                   controller = "Home",
+                   action = "Appointments",
+                   id = UrlParameter.Optional
+               }
+           );
+
 
             routes.MapRoute(
                 name: "Default",
