@@ -102,10 +102,21 @@
     <Content Include="Content\css\bootstrap.css" />
     <Content Include="Content\css\bootstrap.min.css" />
     <Content Include="Content\css\custom.css" />
+    <Content Include="Content\images\fancy-lines-sm.png" />
+    <Content Include="Content\images\fancy-lines.png" />
+    <Content Include="Content\images\icon-fb.png" />
+    <Content Include="Content\images\icon-instagram.png" />
+    <Content Include="Content\images\icon-yelp.png" />
+    <Content Include="Content\images\logo.png" />
     <Content Include="Content\images\mainbg.png" />
     <Content Include="Content\images\spa_facial_face.jpg" />
+    <Content Include="Content\images\sugar-pile.jpg" />
+    <Content Include="Content\images\sugar-spoon-long.jpeg" />
+    <Content Include="Content\images\sugaring-legs.jpg" />
+    <Content Include="Content\images\sugarmama-banner-small.png" />
     <Content Include="Content\images\sugarMamaBanner.png" />
     <Content Include="Content\images\sugarMamaMain.png" />
+    <Content Include="Content\images\sugarMamaSmall.png" />
     <Content Include="Content\images\sugarMamaSymbolSmall.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -144,9 +155,12 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\ComingSoon.cshtml" />
-    <Content Include="Views\Shared\_Navbar.cshtml" />
+    <Content Include="Views\Shared\_TopNav.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Appointments.cshtml" />
+    <Content Include="Views\Home\Sugaring.cshtml" />
+    <Content Include="Views\Shared\_SplashLayout.cshtml" />
+    <Content Include="Views\Shared\_BottomNav.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

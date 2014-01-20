@@ -16,7 +16,7 @@ namespace SugarMama.Web.Controllers
         // GET: /Home/
         public ActionResult Index()
         {
-            return View();
+            return View("Index", "~/Views/Shared/_SplashLayout.cshtml");
         }
 
         public ActionResult About()
@@ -64,6 +64,11 @@ namespace SugarMama.Web.Controllers
         }
 
         public ActionResult Appointments()
+        {
+            return View();
+        }
+
+        public ActionResult Sugaring()
         {
             return View();
         }

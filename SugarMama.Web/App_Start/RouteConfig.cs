@@ -25,6 +25,17 @@ namespace SugarMama.Web
             );
 
             routes.MapRoute(
+                name: "Sugaring",
+                url: "sugaring/{id}",
+                defaults: new
+                {
+                    controller = "Home",
+                    action = "Sugaring",
+                    id = UrlParameter.Optional
+                }
+            );
+
+            routes.MapRoute(
                name: "Contact",
                url: "contact/{id}",
                defaults: new
