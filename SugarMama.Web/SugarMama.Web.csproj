@@ -102,6 +102,8 @@
     <Content Include="Content\css\bootstrap.css" />
     <Content Include="Content\css\bootstrap.min.css" />
     <Content Include="Content\css\custom.css" />
+    <Content Include="Content\images\facial-brunette.jpg" />
+    <Content Include="Content\images\facial-towels.jpg" />
     <Content Include="Content\images\fancy-lines-sm.png" />
     <Content Include="Content\images\fancy-lines.png" />
     <Content Include="Content\images\icon-fb.png" />
@@ -161,6 +163,7 @@
     <Content Include="Views\Home\Sugaring.cshtml" />
     <Content Include="Views\Shared\_SplashLayout.cshtml" />
     <Content Include="Views\Shared\_BottomNav.cshtml" />
+    <Content Include="Views\Home\Facials.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -155,18 +155,32 @@ footer {
     color: white;
 }
 
+.topnav > li > a {
+    color:white; 
+}
+
 .navbar-right {
     padding-right:15px;
      padding-top: 5px;
     padding-bottom: 5px;
 }
 
-.bottom-nav {
+.bottom-navbar li > a {
+    color: rgb(209, 184, 43) !important;
 }
 
 .bottom-navbar li > a:hover {
    text-decoration:underline;
 }
+
+.top-navbar li > a {
+    color: rgb(209, 184, 43) !important;
+}
+
+.top-navbar li > a:hover {
+   text-decoration:underline;
+}
+
 
 @font-face
 {

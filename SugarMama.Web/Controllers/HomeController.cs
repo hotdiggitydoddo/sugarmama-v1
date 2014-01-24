@@ -72,5 +72,10 @@ namespace SugarMama.Web.Controllers
         {
             return View();
         }
+
+        public ActionResult Facials()
+        {
+            return View();
+        }
 	}
 }
