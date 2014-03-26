@@ -18,7 +18,9 @@ namespace SugarMama.Web
 
             bundles.Add(new StyleBundle("~/css").Include(
                 "~/Content/css/bootstrap.min.css",
-                "~/Content/css/custom.css"
+                "~/Content/css/custom.css",
+                "~/Content/css/nivo-slider.css",
+                "~/Content/css/themes/default/default.css"
                 ));
         }
     }

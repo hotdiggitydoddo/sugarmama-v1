@@ -3,21 +3,19 @@
 }
 
 body {
-    background-image:url('/Content/images/mainbg.png');
+    background-image:url('/content/images/mainbg.png');
     margin:0;
-    background-repeat:repeat; 
+    background-repeat:repeat;
+    font-family: 'Century Gothic','Tw Cen MT',Futura,"URW Gothic L",Arial,sans-serif !important;
+
 }
 
-
-h1, h2, h3, h4, h5, h6, a {
-    font-family: 'Century Gothic','Tw Cen MT',Futura,"URW Gothic L",Arial,sans-serif;
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Century Gothic','Tw Cen MT',Futura,"URW Gothic L",Arial,sans-serif !important;
 }
-
 
 .fancy-img {
-
     box-shadow: 5px 5px 5px #808080;
-    
 }
 
 .jumbotron {
@@ -92,13 +90,6 @@ h1, h2, h3, h4, h5, h6, a {
   }
 }
 
-
-
-
-#icon-fb {
-    background-image:url('/Content/images/icon-fb.png');
-    background-repeat:no-repeat;
-}
 
 #banner-small {
     background-image:url('/Content/images/sugarmama-banner-small.png');
@@ -210,7 +201,7 @@ src: url('../../fonts/walkway-bold.ttf');
 }
 
 #home-page {
-    background-image:url('/Content/images/spa_facial_face.jpg');
+    background-image:url('/content/images/spa_facial_face.jpg');
     background-repeat:no-repeat;
     background-size:cover;
     height: 100%;
@@ -222,7 +213,7 @@ src: url('../../fonts/walkway-bold.ttf');
 
 
 .background {
-    background-image:url('/Content/images/sugarMamaMain.png');
+    background-image:url('//content/images/sugarMamaMain.png');
     background-position:center;
     background-repeat:no-repeat;
 }

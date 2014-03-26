@@ -40,20 +40,26 @@ namespace SugarMama.Web.Controllers
                 var message = new MailMessage("deborah@sugarmamaskinsugartan.com", "deborah@sugarmamaskinsugartan.com", model.Subject, bodyHeader + model.Body);
                 var client = new SmtpClient()
                 {
-                    Host = "mail.sugarmamaskinsugartan.com",
-                    Port = 25,
+                    Host = "smtp.gmail.com",
+                    Port = 587,
                 };
-                client.UseDefaultCredentials = true;
+                client.UseDefaultCredentials = false;
+                client.EnableSsl = true;
                 client.Credentials = new NetworkCredential("deborah@sugarmamaskinsugartan.com", "sugarmama");
                 client.Send(message);
-
-                return RedirectToAction("Index");
+                TempData["flash"] = "Your message was successfully sent!  Thank you.";
+                return RedirectToAction("Contact");
             }
             TempData["ErrorMessage"] = "Error: captcha is not valid.";
             return View();
         }
 
         public ActionResult ChartiableWorks()
+        {
+            return View();
+        }
+
+        public ActionResult Promotions()
         {
             return View();
         }
@@ -68,12 +74,22 @@ namespace SugarMama.Web.Controllers
             return View();
         }
 
-        public ActionResult Sugaring()
+        public ActionResult HairRemoval()
+        {
+            return View();
+        }
+
+        public ActionResult Tanning()
         {
             return View();
         }
 
         public ActionResult Facials()
+        {
+            return View();
+        }
+
+        public ActionResult Peels()
         {
             return View();
         }

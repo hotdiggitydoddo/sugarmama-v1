@@ -25,15 +25,71 @@ namespace SugarMama.Web
             );
 
             routes.MapRoute(
-                name: "Sugaring",
-                url: "sugaring/{id}",
+                name: "About",
+                url: "about/{id}",
                 defaults: new
                 {
                     controller = "Home",
-                    action = "Sugaring",
+                    action = "About",
+                    id = UrlParameter.Optional
+                }
+             );
+
+            routes.MapRoute(
+               name: "Promotions",
+               url: "promos/{id}",
+               defaults: new
+               {
+                   controller = "Home",
+                   action = "Promotions",
+                   id = UrlParameter.Optional
+               }
+            );
+
+            routes.MapRoute(
+                name: "HairRemoval",
+                url: "hair-removal/{id}",
+                defaults: new
+                {
+                    controller = "Home",
+                    action = "HairRemoval",
                     id = UrlParameter.Optional
                 }
             );
+
+            routes.MapRoute(
+                name: "Tanning",
+                url: "tanning/{id}",
+                defaults: new
+                {
+                    controller = "Home",
+                    action = "Tanning",
+                    id = UrlParameter.Optional
+                }
+            );
+
+
+            routes.MapRoute(
+                name: "Peels",
+                url: "peels/{id}",
+                defaults: new
+                {
+                    controller = "Home",
+                    action = "Peels",
+                    id = UrlParameter.Optional
+                }
+            );
+
+            routes.MapRoute(
+               name: "Facials",
+               url: "facials/{id}",
+               defaults: new
+               {
+                   controller = "Home",
+                   action = "Facials",
+                   id = UrlParameter.Optional
+               }
+           );
 
             routes.MapRoute(
                name: "Contact",
