@@ -113,6 +113,17 @@ namespace SugarMama.Web
                }
            );
 
+            routes.MapRoute(
+               name: "Picks",
+               url: "picks/{id}",
+               defaults: new
+               {
+                   controller = "Home",
+                   action = "Picks",
+                   id = UrlParameter.Optional
+               }
+           );
+
 
             routes.MapRoute(
                 name: "Default",

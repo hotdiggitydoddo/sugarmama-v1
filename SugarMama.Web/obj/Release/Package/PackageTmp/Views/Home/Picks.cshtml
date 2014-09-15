@@ -1,0 +1,108 @@
+﻿@{
+    ViewBag.Title = "Picks";
+}
+<style>
+    .content {
+        opacity: 1.0;
+    }
+
+    .eve-adam > h2, h3, h4 {
+        color: rgb(172, 51, 148)
+    }
+    .eve-adam > h2 {
+        font-family:  'Century Gothic','Tw Cen MT',Futura,"URW Gothic L",Arial,sans-serif !important;
+        font-weight: normal;
+    }
+    .eve-adam > h3 {
+        font-family:  'Century Gothic','Tw Cen MT',Futura,"URW Gothic L",Arial,sans-serif !important;
+        font-weight: normal;
+    }
+    .eve-adam::after {
+          content: "";
+        background-image: url('/content/images/picks/eve-adam.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 0.4;
+         z-index: -1;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: absolute;
+    }
+
+    .henna > h2, h3 {
+        font-family: 'aerofoil' !important;
+        font-weight: bold;
+    }
+
+    .henna > h2 {
+        font-size: 36px;
+        color: white;
+    }
+
+    .henna > h3 {
+        font-size: 30px;
+        color: black;
+    }
+
+    .henna::after {
+        content: "";
+        background-image: url('/content/images/picks/hand-henna-tattoos.jpg');
+        background-size: contain;
+        background-repeat: no-repeat;
+        opacity: 0.4;
+        z-index: -1;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: absolute;
+        z-index: -1;
+    }
+
+    .henna > h3 > a {
+        color: rgb(86, 77, 107);
+    }
+
+        .henna > h3 > a:hover {
+            color: rgb(100, 75, 158);
+        }
+</style>
+
+<div class="container">
+    <div class="jumbotron">
+        <h1>our picks</h1>
+        <div class="row" style="margin-top: 25px;">
+            <div class="col-md-6" style="font-size: medium">
+                <h2 style=" font-family:'Century Gothic','Tw Cen MT',Futura,'URW Gothic L',Arial,sans-serif !important; font-weight: normal; color:rgb(170, 150, 0)">
+                    at SugarMaMa, we recognize great talent when we see it.  and whenever that happens, we want to tell you!
+                </h2>
+                <h2 style=" font-family:'Century Gothic','Tw Cen MT',Futura,'URW Gothic L',Arial,sans-serif !important; font-weight: normal; color:rgb(145, 110, 0)">
+                    here, you will find our current picks of other members of our local community who we can't stop raving about!
+                </h2>
+            </div>
+            <div class="col-md-6" style="font-size: medium">
+                <div class="container">
+                    <div class="jumbotron henna" style="">
+                        <h2 style="color:white;">fatma's henna service</h2>
+                        <h3>Anaheim, CA</h3>
+                        <h3>714.603.6968</h3>
+                        <h3><a href="mailto:fatmahenna@gmail.com">fatmahenna@gmail.com</a></h3>
+                    </div>
+                </div>
+                @*<div class="container">
+                    <div class="jumbotron eve-adam" style="">
+                        <h2>eve & adam</h2>
+                        <h4><em>for our male clients looking for a brazilian...</em></h4>
+                        <h3>14340 bolsa chica rd.</h3>
+                        <h3>westminster, ca 92683</h3>
+                        <h3><a href="http://eveandadamspa.com" target="_blank">www.eveandadamspa.com</a></h3>
+                        <h3>714.251.0602</h3>
+                    </div>
+                </div>*@
+            </div>
+        </div>
+    </div>
+</div>
+

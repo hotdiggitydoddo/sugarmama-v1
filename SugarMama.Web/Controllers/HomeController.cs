@@ -93,5 +93,10 @@ namespace SugarMama.Web.Controllers
         {
             return View();
         }
+
+        public ActionResult Picks()
+        {
+            return View();
+        }
 	}
 }

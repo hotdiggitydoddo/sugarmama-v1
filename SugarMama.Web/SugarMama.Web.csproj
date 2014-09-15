@@ -132,6 +132,8 @@
     <Content Include="Content\images\mainbg.png" />
     <Content Include="Content\images\peels1.jpg" />
     <Content Include="Content\images\peels2.jpg" />
+    <Content Include="Content\images\picks\eve-adam.jpg" />
+    <Content Include="Content\images\picks\hand-henna-tattoos.jpg" />
     <Content Include="Content\images\promos\microdermabrasion-clipart.png" />
     <Content Include="Content\images\promos\tandem-heart.jpg" />
     <Content Include="Content\images\promos\tandem-love.jpg" />
@@ -163,6 +165,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Content\css\themes\dark\.DS_Store" />
+    <Content Include="fonts\aerofoil.ttf" />
     <None Include="Properties\PublishProfiles\mywindowshosting.com.pubxml" />
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -206,6 +209,7 @@
     <Content Include="Views\Home\Tanning.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Promotions.cshtml" />
+    <Content Include="Views\Home\Picks.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

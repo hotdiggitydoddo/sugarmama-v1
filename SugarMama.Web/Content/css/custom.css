@@ -179,6 +179,10 @@ font-family: walkway-bold;
 src: url('../../fonts/walkway-bold.ttf');
 }
 
+@font-face {
+    font-family: aerofoil;
+    src: url('../../fonts/aerofoil.ttf');
+}
 .form-signin {
     max-width: 50%;
     padding: 19px 19px 19px;
