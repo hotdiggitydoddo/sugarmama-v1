@@ -2,3 +2,8 @@ C:\dev\Repos\SugarMama\SugarMama.Model\bin\Debug\SugarMama.Model.dll
 C:\dev\Repos\SugarMama\SugarMama.Model\bin\Debug\SugarMama.Model.pdb
 C:\dev\Repos\SugarMama\SugarMama.Model\obj\Debug\SugarMama.Model.dll
 C:\dev\Repos\SugarMama\SugarMama.Model\obj\Debug\SugarMama.Model.pdb
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Model\bin\Debug\SugarMama.Model.dll
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Model\bin\Debug\SugarMama.Model.pdb
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Model\obj\Debug\SugarMama.Model.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Model\obj\Debug\SugarMama.Model.dll
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Model\obj\Debug\SugarMama.Model.pdb

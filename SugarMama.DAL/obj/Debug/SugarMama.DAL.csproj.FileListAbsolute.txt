@@ -8,3 +8,13 @@ C:\dev\Repos\SugarMama\SugarMama.DAL\bin\Debug\EntityFramework.SqlServer.xml
 C:\dev\Repos\SugarMama\SugarMama.DAL\obj\Debug\SugarMama.DAL.csprojResolveAssemblyReference.cache
 C:\dev\Repos\SugarMama\SugarMama.DAL\obj\Debug\SugarMama.DAL.dll
 C:\dev\Repos\SugarMama\SugarMama.DAL\obj\Debug\SugarMama.DAL.pdb
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.DAL\bin\Debug\SugarMama.DAL.dll.config
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.DAL\bin\Debug\SugarMama.DAL.dll
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.DAL\bin\Debug\SugarMama.DAL.pdb
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.DAL\obj\Debug\SugarMama.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.DAL\obj\Debug\SugarMama.DAL.dll
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.DAL\obj\Debug\SugarMama.DAL.pdb

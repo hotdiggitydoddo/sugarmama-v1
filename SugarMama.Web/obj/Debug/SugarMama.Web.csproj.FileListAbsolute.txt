@@ -34,7 +34,6 @@ C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\CaptchaMvc.dll
 C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\Newtonsoft.Json.dll
 C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\System.Web.Helpers.dll
-C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\System.Web.Mvc.dll
 C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\System.Web.Optimization.dll
 C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\System.Web.Razor.dll
 C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\System.Web.Webpages.Deployment.dll
@@ -51,7 +50,8 @@ C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\System.Web.Webpages.xml
 C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\System.Web.Webpages.Deployment.xml
 C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\System.Web.Webpages.Razor.xml
 C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\System.Web.Helpers.xml
-C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\System.Web.Mvc.xml
 C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\obj\Debug\SugarMama.Web.csprojResolveAssemblyReference.cache
 C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\obj\Debug\SugarMama.Web.dll
 C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\obj\Debug\SugarMama.Web.pdb
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\System.Web.Mvc.dll
+C:\Users\Ryan\Source\Repos\sugarmama\SugarMama.Web\bin\System.Web.Mvc.xml
